@@ -1,0 +1,15 @@
+{
+  "name": "cpf-rg-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./index.test.js --exit --bail"
+  },
+  "author": "Yael Brodsky",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
